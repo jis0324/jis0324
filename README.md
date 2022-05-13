@@ -31,7 +31,7 @@ $ curl --silent https://github.com/jis0324.gpg | gpg --import
 
 
 <!--START_SECTION:waka-->
-![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jis0324)
+![jhanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jis0324)
 <p align="center">
     <a href="https://github.com/jis0324">
         <img height="180em"
