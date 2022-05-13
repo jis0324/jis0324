@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 <!-- ![jis0324 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jis0324) -->
-<p align="center">
+<p align="center" style="display:flex;">
 <a href="https://github.com/jis0324">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jis0324&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
 </a>
