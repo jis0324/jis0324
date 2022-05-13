@@ -5,6 +5,8 @@
 - 📫 How to reach me: automation.specialist0324@gmail.com
 - ⚡ Fun fact: FootBall, VolleyBall
 
+<br>
+
 <p align="center">
     <a href="">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=jis0324.jis0324">
@@ -14,9 +16,8 @@
 </p>
 <!--**Statistik Efektif**-->
 
-```
-$ curl --silent https://github.com/jis0324.gpg | gpg --import
-```
+<br>
+<br>
 
 ## Github Analytics
 <p align="center">
@@ -24,6 +25,9 @@ $ curl --silent https://github.com/jis0324.gpg | gpg --import
         src="https://github-profile-trophy.vercel.app/?username=jis0324&no-bg=true&no-frame=true&theme=onedark&column=7" />
 </p>
 
+
+<br>
+<br>
 
 <!--START_SECTION:waka-->
 <!-- ![jis0324 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jis0324) -->
@@ -35,6 +39,9 @@ $ curl --silent https://github.com/jis0324.gpg | gpg --import
 </p>
 <!--END_SECTION:waka-->
 
+<br>
+<br>
+
 ## 📊 My Activity on Github
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <details>
@@ -45,6 +52,8 @@ $ curl --silent https://github.com/jis0324.gpg | gpg --import
     <br />
     <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 </details>
+
+<br>
 
 <details>
     <summary>⚡ Recent GitHub Activity</summary>
@@ -59,6 +68,9 @@ $ curl --silent https://github.com/jis0324.gpg | gpg --import
 ...
 <!--END_SECTION:activity-->
 </details>
+
+<br>
+<br>
 
 ## 👨‍💻 Experience
 <p>
