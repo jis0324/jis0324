@@ -29,8 +29,8 @@ $ curl --silent https://github.com/jis0324.gpg | gpg --import
 <!-- ![jis0324 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jis0324) -->
 <p align="center">
 <a href="https://github.com/jis0324">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jis0324&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jis0324&layout=compact&langs_count=8&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jis0324&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+    <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jis0324&layout=compact&langs_count=8&theme=midnight-purple"/> -->
 </a>
 </p>
 <!--END_SECTION:waka-->
@@ -52,31 +52,24 @@ $ curl --silent https://github.com/jis0324.gpg | gpg --import
 
 <!--START_SECTION:activity-->
 * Backend Development(Django, Flask)
-1. Data Parser
-2. Scraper
-3. Automation
-4. Bot Development
+* Data Parser
+* Scraper
+* Automation
+* Bot Development
 ...
 <!--END_SECTION:activity-->
 </details>
 
 ## 👨‍💻 Experience
 <p>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-success?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/REACT-blueviolet?&style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/jQuery-ff69b4?&style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-orange?&style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/shopify-9cf?&style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-success?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrapy%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColorwhite" />
+  <img src="https://img.shields.io/badge/Selenium-blueviolet?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requests%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beautifulsoup3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <br>
