@@ -1,11 +1,13 @@
-### JIS0324's Summary 👋
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+### JIS0324's Summary 👋
 
 - 🔭 Expert in Web Scraping / Data Management
 - 🌱 Talented Python & Backend Developer
 - 👯 Automation & Bot Development Specialist
 - 📫 How to reach me: automation.specialist0324@gmail.com
 - ⚡ Fun fact: FootBall, VolleyBall
+
+<br/>
 
 <p align="center">
     <a href="">
