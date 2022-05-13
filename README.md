@@ -1,4 +1,4 @@
-### Hi there 👋
+### JIS0324's Summary 👋
 - 🔭 Expert in Web Scraping / Data Management
 - 🌱 Talented Python & Backend Developer
 - 👯 Automation & Bot Development Specialist
@@ -36,6 +36,12 @@
 </p>
 <!--END_SECTION:waka-->
 <br>
+
+<a href="https://github.com/jis0324">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=jis0324&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/jis0324">
+  <img width="50%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jis0324&theme=highcontrast" /></a>
 
 ## 👨‍💻 Skills
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
