@@ -1,4 +1,6 @@
 ### Hi there 👋
+[Waka Readme](https://github.com/mzaini30/mzaini30/workflows/Waka%20Readme/badge.svg)
+![Update README](https://github.com/mzaini30/mzaini30/workflows/Update%20README/badge.svg)
 
 <!--
 **jis0324/jis0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
