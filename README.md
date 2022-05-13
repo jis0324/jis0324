@@ -29,40 +29,17 @@
 <!-- ![jis0324 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jis0324) -->
 <p align="center">
 <a href="https://github.com/jis0324">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jis0324&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-    <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jis0324&layout=compact&langs_count=8&theme=midnight-purple"/> -->
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=jis0324&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
 </a>
+<a href="https://github.com/jis0324">
+  <img width="50%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jis0324&theme=highcontrast" /></a>
 </p>
 <!--END_SECTION:waka-->
 <br>
 
-## 📊 My Activity on Github
+## 👨‍💻 Skills
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<details>
-    <summary>💻 GitHub Profile Stats</summary>
-    <br />
-    <a href="https://github.com/jis0324"><img width="50%"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=jis0324&theme=highcontrast" /></a>
-    <br />
-    <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-</details>
 
-<details>
-    <summary>⚡ Recent GitHub Activity</summary>
-    <br />
-
-<!--START_SECTION:activity-->
-* Backend Development(Django, Flask)
-* Data Parser
-* Scraper
-* Automation
-* Bot Development
-...
-<!--END_SECTION:activity-->
-</details>
-<br>
-
-## 👨‍💻 Experience
 <p>
   <img src="https://img.shields.io/badge/GIT%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-success?&style=for-the-badge&logo=python&logoColor=white" />
