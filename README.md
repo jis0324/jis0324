@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Backend
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate on Frontend
+- 🔭 Expert in Web Scraping / Data Management
+- 🌱 Talented Python & Backend Developer
+- 👯 Automation & Bot Development Specialist
 - 📫 How to reach me: automation.specialist0324@gmail.com
 - ⚡ Fun fact: FootBall, VolleyBall
 
@@ -51,8 +51,12 @@ $ curl --silent https://github.com/jis0324.gpg | gpg --import
     <br />
 
 <!--START_SECTION:activity-->
-1. You.com Parser
-2. Google Scraping
+* Backend Development(Django, Flask)
+1. Data Parser
+2. Scraper
+3. Automation
+4. Bot Development
+...
 <!--END_SECTION:activity-->
 </details>
 
