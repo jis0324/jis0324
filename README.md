@@ -1,4 +1,6 @@
 ### JIS0324's Summary 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 - 🔭 Expert in Web Scraping / Data Management
 - 🌱 Talented Python & Backend Developer
 - 👯 Automation & Bot Development Specialist
@@ -38,8 +40,6 @@
 <br>
 
 ## 👨‍💻 Skills
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 <p>
   <img src="https://img.shields.io/badge/GIT%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-success?&style=for-the-badge&logo=python&logoColor=white" />
