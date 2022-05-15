@@ -38,7 +38,7 @@
 <!--END_SECTION:waka-->
 <br>
 
-## 👨‍💻 Skills
+## 👨‍💻 Top Skills
 <p>
   <img src="https://img.shields.io/badge/GIT%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-success?&style=for-the-badge&logo=python&logoColor=white" />
