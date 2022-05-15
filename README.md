@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Django%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrapy%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColorwhite" />
-  <img src="https://img.shields.io/badge/Selenium-blueviolet?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/@Selenium-blueviolet" />
   <img src="https://img.shields.io/badge/Requests%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Beautifulsoup3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
