@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Python-success?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django%20-%232635e3.svg??&style=for-the-badge&logo=vue.js&logoColorwhite" />
   <img src="https://img.shields.io/badge/Flask%20-%23e116db.svg?&style=for-the-badge&logo=vue.js&logoColorwhite" />
-  <img src="https://img.shields.io/badge/Scrapy%20-%2e72020.svg?&style=for-the-badge&logo=vue.js&logoColorwhite" />
+  <img src="https://img.shields.io/badge/Scrapy%20-%23e72020.svg?&style=for-the-badge&logo=vue.js&logoColorwhite" />
   <img src="https://img.shields.io/badge/@Selenium%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColorwhite" />
   <img src="https://img.shields.io/badge/Requests%20-%23E34F26.svg?&style=for-the-badge&logo=vue.js&logoColorwhite" />
   <img src="https://img.shields.io/badge/Beautifulsoup3%20-%23e0e326.svg?&style=for-the-badge&logo=vue.js&logoColorwhite" />
