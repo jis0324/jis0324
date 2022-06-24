@@ -47,5 +47,6 @@
   <img src="https://img.shields.io/badge/@Selenium%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColorwhite" />
   <img src="https://img.shields.io/badge/Requests%20-%23E34F26.svg?&style=for-the-badge&logo=vue.js&logoColorwhite" />
   <img src="https://img.shields.io/badge/Beautifulsoup%20-%23e0e326.svg?&style=for-the-badge&logo=vue.js&logoColorwhite" />
+  <img src="https://img.shields.io/badge/XPATH%20-%23238636.svg?&style=for-the-badge&logo=vue.js&logoColorwhite" />
 </p>
 <br>
