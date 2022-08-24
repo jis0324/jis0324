@@ -4,7 +4,7 @@
 - 🌱 Talented Python & Backend Developer
 - 👯 Automation & Bot Development Specialist
 - 📫 How to reach me: automation.specialist0324@gmail.com
-- ⚡ Fun fact: FootBall, VolleyBall
+- ⚡ Fun fact: Goal Keeper(1), VolleyBall Attacker(4)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 <br/>
