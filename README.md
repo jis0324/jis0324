@@ -3,7 +3,7 @@
 - 🔭 Expert in Web Scraping / Data Management
 - 🌱 Talented Python & Backend Developer
 - 👯 Automation & Bot Development Specialist
-- 📫 How to reach me: automation.specialist0324@gmail.com
+- 📫 How to reach me: jis0324@advintersection.com
 - ⚡ Fun fact: Goal Keeper(1), VolleyBall Attacker(4)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
