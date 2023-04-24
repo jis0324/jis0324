@@ -18,13 +18,6 @@
 </p>
 <!--**Statistik Efektif**-->
 
-## Github Analytics
-<p align="center">
-    <img alig
-        src="https://github-profile-trophy.vercel.app/?username=jis0324&no-bg=true&no-frame=true&theme=onedark&column=7" />
-</p>
-<br>
-
 <!--START_SECTION:waka-->
 <!-- ![jis0324 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jis0324) -->
 <p align="center" style="display:flex;">
